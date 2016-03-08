@@ -1,0 +1,23 @@
+#menue{
+position:relative;
+left:30%;
+}
+ul{
+    list-style: none;
+}
+ul li {
+    width:100px;
+    float:left;
+}
+ul li a:hover{
+    
+    background:red;
+}
+#main{
+    width:580px;
+    height:500px;
+    margin-left:25%;
+    position:relative;
+    top:100px;
+    border:solid 2px;
+}
