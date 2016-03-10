@@ -1,7 +1,7 @@
 <?php
 header("Content-type=text/html; charset=utf8");
 ?>
-<link rel="stylesheet"type="text/css"href="https://github.com/rxzf/Test/blob/master/a.css">
+<link rel="stylesheet"type="text/css"href="http://rxzf.github.io./a.css">
 <div id="menue"><ul>
     <li><a href="http://htmlpreview.github.io/?https://github.com/rxzf/Test/blob/master/main1.php"target="mainye">test1 </a></li>
         <li><a href="http://htmlpreview.github.io/?https://github.com/rxzf/Test/blob/master/main2.php"target="mainye">test2</a></li>
