@@ -42,8 +42,7 @@ ul li a:hover{
     height:1200px;
     margin-left:30%;
     position:relative;
-    top:200px;
-    bottom:200px;
+    top:210px;
     border: 2px;
         
       -webkit-border-radius: 4px; 
@@ -106,7 +105,7 @@ box-shadow: 1px 1px 3px #292929;
      border: red 2px;
       position:absolute;
       left:20%;
-      top:335%;
+      top:2120px;
     
 
 }
